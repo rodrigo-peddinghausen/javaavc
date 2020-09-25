@@ -1,0 +1,3 @@
+Exceções filhas de RuntimeException são Unchecked. -- São associadas às regras de negócios.
+
+Todo o resto é checked. -- São exceções da infraestrutura e do esqueleto do projeto.
