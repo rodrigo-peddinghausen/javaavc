@@ -17,12 +17,30 @@ public class TesteIntToString {
 		
 		//Classes Wrapper em Java
 		//boolean -> Boolean
+		/*Boolean.compare(x, y) - retorna 0 se X && Y, <0 se !X && Y e >0 se X && !Y
+		Boolean.logicalAnd(a, b) - retorna true se a&&b forem verdadeiros e false se acontecer o contrario
+		O mesmo vale para logicalOr e Xor*/
+		
 		//char -> Character
+		char a = 'a';
+		boolean check = Character.isUpperCase('a'); // Testa se o char é maiúsculo e retorna um um booleano
+		
+		
 		//byte -> Byte
+		
+		
 		//short -> Short
+		
+		
 		//int -> Integer
+		
+		
 		//long -> Long
+		
+		
 		//float -> Float
+		
+		
 		//double -> Double
 		
 		//Próxima aula vem Java.io
