@@ -32,7 +32,7 @@ public class TestaMathCasa {
 		System.out.println(Math.exp(1));
 		
 		//log logaritmo de base 'e'
-		System.out.println(Math.log10(100));
+		System.out.println(Math.log(100));
 		
 		//pow - potenciação
 		System.out.println(Math.pow(6, 2));

@@ -34,6 +34,7 @@ public class TestaString {
 		
 		//java.lang.System
 		//java.lang.Object -> classe mais ancestral
+		
  		
 	}
 }
